@@ -14,6 +14,10 @@ All codes can run in any machine with python installed.
 
 ---
 
+#### License
+
+zlib
+
 ### Coded by:
 Arnel Gonzales Imperial
 
