@@ -1,4 +1,4 @@
-# Codes-in-Console
+<h2 align=center>Code-Py</h2>
 
 ***v1.0.0***
 
@@ -18,6 +18,6 @@ All codes can run in any machine with python installed.
 
 zlib
 
-### Coded by:
-Arnel Gonzales Imperial
+### Coder:
+Arnel Imperial
 
